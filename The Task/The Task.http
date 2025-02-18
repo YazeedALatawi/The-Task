@@ -1,6 +1,0 @@
-@The_Task_HostAddress = http://localhost:5285
-
-GET {{The_Task_HostAddress}}/Get/
-Accept: application/json
-
-###
